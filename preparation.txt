@@ -1,0 +1,17 @@
+algorithm and DS
+https://www.youtube.com/watch?v=9SgLBjXqwd4&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=7
+
+python sorting:
+https://www.youtube.com/watch?v=CB_NCoxzQnk&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq&index=7
+
+pandas interview data science:
+https://www.youtube.com/watch?v=cc0HOiKN_ac&t=1679s
+
+statistics basics (theoritical)
+https://www.youtube.com/watch?v=xxpc-HPKN28&t=9671s
+
+interview types:
+https://www.youtube.com/watch?v=PNr51ZJkoBU
+
+supervised machine learning algorithm (interview prep):
+https://www.youtube.com/watch?v=q3Y4bwPftdU&list=PLOLWGEXpOrBzV-o9E1qWnisuxNJuePBEG&index=5
